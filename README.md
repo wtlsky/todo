@@ -16,12 +16,12 @@ npm run build
 
 ```
 
-## 运行截图 
+## 运行截图
 
 ### 手机截图
 > 首页
 
-![手机端首页截图](http://ow0mz7346.bkt.clouddn.com/17-10-10/16327335.jpg)
+![手机端首页截图](http://ow0mz7346.bkt.clouddn.com/17-11-5/14795453.jpg)
 
 > 添加事项
 
